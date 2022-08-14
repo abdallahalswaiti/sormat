@@ -1,7 +1,8 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://abdallahalswaiti.github.io/sormat/"
 title = "Somrat | Hugo Portfolio Template"
 theme = "somrat"
+publishDir ="docs"
 # post pagination
 paginate = "6"
 # post excerpt
