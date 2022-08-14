@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://abdallahalswaiti.github.io/news/"
+baseURL = "https://abdallahalswaiti.github.io/sormat/"
 title = "Somrat | Hugo Portfolio Template"
 theme = "somrat"
 # post pagination
